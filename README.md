@@ -10,6 +10,6 @@ O SemuMatch é uma aplicação desktop que permite que dois usuários possam jog
 Java
 IDE eclipse
 
-#Autor
+## Autor
 Leonardo Pequeno Tiago<br>
 ao.linkedin.com/in/leonardo-tiago-561470132
