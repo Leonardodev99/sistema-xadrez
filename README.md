@@ -7,7 +7,7 @@ O SemuMatch é uma aplicação desktop que permite que dois usuários possam jog
 ![sistema jogo de xadrez](https://github.com/Leonardodev99/sistema-xadrez/assets/148824065/2d97337c-a10c-48cc-9f21-9743951c5346)
 ## Interface gráfica
 ## Tecnologias
-Java
+Java<br>
 IDE eclipse
 
 ## Autor
